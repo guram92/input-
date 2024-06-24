@@ -1,0 +1,42 @@
+.x1 {
+    width :315px;
+    height: 45px;
+    margin-top: 12px;
+    margin-left: 9px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    color: #9E9E9E;
+    padding-left:11px;
+}
+.x2 {
+    width: 467px;
+    height: 45px;
+    margin-top:9px ;
+    margin-left: 9px;
+    border-radius:15px ;
+    border: 1px solid #FF0000;
+    background-color: #610000;
+    color: #F07272;
+    padding-left: 11px;
+}
+.x3 {
+    width: 541px;
+    height: 45px ;
+    border-radius: 5px;
+    border: 1px solid #A8AB00 ;
+    margin-left: 9px;
+    margin-top: 14px;
+    color: #A8AB00;
+    padding-left: 11px;
+}
+.x4 {
+    width: 315px;
+    height: 45px;
+    border-radius: 30px;
+    margin-left: 9px;
+    margin-top: 9px;
+    border: 2px solid #F9FE03;
+    background-color: #292828;
+    color: #F9FE03;
+    padding-left: 11px;
+}
